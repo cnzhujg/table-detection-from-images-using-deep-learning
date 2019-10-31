@@ -1,3 +1,2 @@
 Table Detection From Images Using Deep Learning.
-Please follow the instructions in this blog post to build this system,
-https://developerfriend.quora.com/STEP-BY-STEP-INSTRUCTIONS-FOR-BUILDING-A-DEEP-LEARNING-MODEL-TO-DETECT-TABLES-FROM-IMAGES
+Please follow the instructions in the PDF document "STEPBYSTEP_INSTRUCTIONS_FOR_BUILDING_A_DEEP_LEARNING_MODEL_TO_DETECT_TABLES_FROM_IMAGES.PDF"
