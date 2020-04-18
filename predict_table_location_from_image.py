@@ -5,7 +5,7 @@ from PIL import Image as pilimage
 # This program  will predict the location of the tables in an image
 # It outputs the coordinates of the tables. Using these coordinates we can cut the table portion of the image and use it for further processing
 
-input_file = '/usr/local/table-detection-from-images-using-deep-learning-master/test_image_with_table.png'
+input_file = '/usr/local/table-detection-from-images-using-deep-learning-master/data/val/9549_009.png'
 # Specify the luminoth checkpoint here
 checkpoint = 'c2df81db49e0'
 
