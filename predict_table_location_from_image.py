@@ -7,7 +7,7 @@ from PIL import Image as pilimage
 
 input_file = '/usr/local/table-detection-from-images-using-deep-learning-master/data/val/9549_009.png'
 # Specify the luminoth checkpoint here
-checkpoint = 'c2df81db49e0'
+checkpoint = '73689cee5da2'
 
 config = get_checkpoint_config(checkpoint)
 network = PredictorNetwork(config)
