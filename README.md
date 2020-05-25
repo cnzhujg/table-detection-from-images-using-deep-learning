@@ -1,4 +1,5 @@
 Table Detection From Images Using Deep Learning.
-Please follow the instructions in the PDF document "STEPBYSTEP_INSTRUCTIONS_FOR_BUILDING_A_DEEP_LEARNING_MODEL_TO_DETECT_TABLES_FROM_IMAGES.PDF"
+Please follow the instructions in the blog post,
 
-https://github.com/rajeshkumarraj82/table-detection-from-images-using-deep-learning/blob/master/STEPBYSTEP_INSTRUCTIONS_FOR_BUILDING_A_DEEP_LEARNING_MODEL_TO_DETECT_TABLES_FROM_IMAGES.PDF
+http://www.thedeveloperfriend.com/computer-vision-using-deep-learning/step-by-step-instructions-for-building-a-deep-learning-model-to-detect-tables-from-images/
+
